@@ -1,0 +1,9 @@
+iperf -c 10.0.0.5 -u -b 6m -l 1470 -i 1 -t 30
+iperf -c 10.0.0.5 -u -b 7m -l 1470 -i 1 -t 30
+iperf -c 10.0.0.5 -u -b 8m -l 1470 -i 1 -t 30
+iperf -c 10.0.0.5 -u -b 9m -l 1470 -i 1 -t 30
+iperf -c 10.0.0.5 -u -b 10m -l 1470 -i 1 -t 30
+iperf -c 10.0.0.5 -u -b 11m -l 1470 -i 1 -t 30
+iperf -c 10.0.0.5 -u -b 12.5m -l 1470 -i 1 -t 30
+iperf -c 10.0.0.5 -u -b 14m -l 1470 -i 1 -t 30
+sudo ./waf --run "scratch/tel280_lab4 --Duration=7200 --n_stas=4 --HT_Enabled=true"
