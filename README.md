@@ -9,6 +9,7 @@ dado. Finalmente una vez que se extraiga el archivo .txt y haya borrado las line
 que por defecto esta en blanco tal como se muestra a continuacion:
 ![image](https://user-images.githubusercontent.com/92816809/198729873-39ad4605-ba47-4286-910d-5fa69dbf27e4.png)
 ![image](https://user-images.githubusercontent.com/92816809/198729956-24b30ef1-988f-4e71-996a-c23abad57f84.png)
+
 se deberá modificar el archivo en detector .py en funcion al nombre del archivo que se tenga para que este pueda detectar el throughput por cada 
 nodo y throughput general para así ir llenando la tabla por cada actividad dada.
 Saludos,
