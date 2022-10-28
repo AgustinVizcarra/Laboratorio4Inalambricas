@@ -1,4 +1,4 @@
-with open("actividad_b1_12.txt", "r") as f:
+with open("TU_NOMBRE_DE_ARCHIVO.txt", "r") as f:
     lineas = f.readlines()
     info = []
     counter = 0
